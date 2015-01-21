@@ -1,11 +1,6 @@
-<<<<<<< Updated upstream
+
 Class C{
 =======
-
-
-
-
-
 
 Class B{ 
  private String aa;
@@ -15,7 +10,8 @@ class  A{
    public static void main(String[] args){
        System.out.println("Hello World");
 }
->>>>>>> Stashed changes
+
 }
 Class D{
 }
+eem
