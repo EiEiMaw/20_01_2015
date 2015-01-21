@@ -1,2 +1,4 @@
 Class C{
 }
+Class D{
+}
