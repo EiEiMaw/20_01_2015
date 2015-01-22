@@ -1,6 +1,3 @@
-0
-
-
 Class C{
 =======
 /1
@@ -18,12 +15,15 @@ class  A{
 Class D{
 }
 
+
 Class F{
+
+}
+Class E{
+
 }
 eem
-<<<<<<< Updated upstream
+
 zmh
 444 555 666 888 
-=======
-5
->>>>>>> Stashed changes
+
