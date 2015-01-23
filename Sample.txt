@@ -2,5 +2,9 @@ Public Class Sample{
 private String name;
 private int age;
 
+public void Display(){
+ System.out.println("Hello Baby");
+}
+
 
 }
