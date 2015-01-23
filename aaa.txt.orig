@@ -1,11 +1,34 @@
-<<<<<<< HEAD
+Class C{
+=======
+/1
 Class B{ 
  private String aa;
-
-=======
+2 private int num;
+3
+}
 class  A{
    public static void main(String[] args){
        System.out.println("Hello World");
 }
->>>>>>> bd0d65e6d4b2204decbd75ccb930ef83be4fc8e6
+4
 }
+Class D{
+}
+
+
+Class F{
+
+}
+Class E{
+
+}
+<<<<<<< HEAD
+My name is zmh.
+=======
+What is your name?
+My name is EEM.
+>>>>>>> 3658d79de997430fca9cdd6505b026bf54d113e0
+eem
+zmh
+444 555 666 888 
+
