@@ -1,0 +1,6 @@
+Public Class Sample{
+private String name;
+private int age;
+
+
+}
