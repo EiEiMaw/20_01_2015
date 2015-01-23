@@ -3,5 +3,9 @@ private String name;
 private int age;
 private double salary;
 
+public void Display(){
+ System.out.println("Hello Baby");
+}
+
 
 }
