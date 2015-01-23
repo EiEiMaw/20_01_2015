@@ -1,3 +1,4 @@
 private String num1;
 private String num2;
 private String num3;
+private String num4;
