@@ -1,0 +1,2 @@
+private String num1;
+private String num2;
