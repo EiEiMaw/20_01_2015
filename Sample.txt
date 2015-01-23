@@ -1,6 +1,7 @@
-Public Class Sample{
+Public Class Sample {
 private String name;
 private int age;
+private double salary;
 
 
 }
